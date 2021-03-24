@@ -12,3 +12,4 @@ Few things about me:
 - ⚡ twitter: [@thienmtran](https://twitter.com/thienmtran)
 
 [![twitter badge](https://img.shields.io/twitter/thienmtran?style=social)](https://twitter.com/thienmtran)
+[![twitter badge](https://github.com/thnmtrn/thnmtrn.git)](https://github.com/thnmtrn)
