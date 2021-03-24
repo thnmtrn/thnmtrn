@@ -11,5 +11,5 @@ Few things about me:
 - 😄 Blog: [thientran.me](https://thientran.me/blog)
 - ⚡ twitter: [@thienmtran](https://twitter.com/thienmtran)
 
-[![twitter badge](https://img.shields.io/twitter/thienmtran?style=social)](https://twitter.com/thienmtran)
-[![twitter badge](https://github.com/thnmtrn/thnmtrn.git)](https://github.com/thnmtrn)
+[![twitter badge](https://img.shields.io/twitter/follow/thienmtran?style=social)](https://twitter.com/thienmtran)
+[![github badge](https://img.shields.io/github/stars/thnmtrn?style=social)](https://github.com/thnmtrn)
