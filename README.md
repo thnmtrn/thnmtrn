@@ -11,3 +11,4 @@ Few things about me:
 - 😄 Blog: [thientran.me](https://thientran.me/blog)
 - ⚡ twitter: [@thienmtran](https://twitter.com/thienmtran)
 
+[![twitter badge](https://img.shields.io/twitter/follow/thienmtran?style=social)](https://twitter.com/thienmtran)
