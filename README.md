@@ -13,4 +13,4 @@ Few things about me:
 
 [![twitter badge](https://img.shields.io/twitter/follow/thienmtran?style=social)](https://twitter.com/thienmtran)
 [![github badge](https://img.shields.io/github/stars/thnmtrn?style=social)](https://github.com/thnmtrn)
-[![buymecoffee badge](https://img.shields.io/badge/buymeacoffee-buymeacoffee-yellow?style=social&logo=buymeacoffee)](https://github.com/thnmtrn)
+[![buymecoffee badge](https://img.shields.io/badge/buymeacoffee-yellow?style=social&logo=buymeacoffee)](https://github.com/thnmtrn)
